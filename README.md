@@ -1,5 +1,5 @@
 # IP-Locations
-> Parses through IP addresses that attacked my server and grabs their "location."
+> Parses through IP addresses that attacked my server and grabs their "location" using the IPStack geolocation API.
 >
 > #### ~ Jonathan Chapman, developer
 >
